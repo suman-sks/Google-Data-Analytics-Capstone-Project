@@ -1,7 +1,10 @@
 ## Human temporal routine behavioral analysis: Case Study
 
 As part of Google Data Analytics course, the case study is done on Bellabeat Fitness data (dataset available: [here](https://www.kaggle.com/arashnic/fitbit)). 
-The case study requires the analyst to follow the steps of the data analysis process: **Ask, Prepare, Process, Analyze, Share,** and **Act**.
+
+
+The case study requires the analyst to follow the steps of the data analysis process: 
+**Ask, Prepare, Process, Analyze, Share,** and **Act**.
 
 
 **Kaggle notebook**: [R Notebook](https://www.kaggle.com/tallaprashamsa/gda-bellabeat-case-study) <br /> 
